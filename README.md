@@ -4,4 +4,4 @@ This project will convert your discord cache to its orginal file extension (Png,
 
 More info soon I'm lazy
 
-Check here: https://github.com/Ikeetjeop/DiscordCachConverter/blob/master/src/main/java/me/nick/discord/DiscordCacheRestore.java
+Check this: https://github.com/Ikeetjeop/DiscordCachConverter/blob/master/src/main/java/me/nick/discord/DiscordCacheRestore.java
