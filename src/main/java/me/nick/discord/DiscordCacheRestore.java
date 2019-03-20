@@ -20,7 +20,7 @@ public class DiscordCacheRestore {
     // 0 = Discord
     // 1 = Discord Canary
     // 2 = cacheDir (Custom location to the cache direction)
-    private final int discordOption = 1;
+    private final int discordOption = 0;
 
     //You can only set the location this when "discordOption" is set to 2
     private File cacheDir = new File("C:\\Users\\Gebruiker\\AppData\\Roaming\\discordcanary\\Cache");
